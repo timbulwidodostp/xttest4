@@ -1,0 +1,2 @@
+# xttest4
+Kezdi (2003) test for heteroscedasticity in Fixed Effects models with large N, small T Use xttest4 With STATA 19
