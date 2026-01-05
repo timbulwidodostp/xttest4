@@ -1,4 +1,4 @@
-D 'DEA': Data envelopment analysis
+D 'xttest4': Kezdi (2003) test for heteroscedasticity in Fixed Effects models with large N, small T Use xttest4 With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F xttest4.ado
+F xttest4.sthlp
